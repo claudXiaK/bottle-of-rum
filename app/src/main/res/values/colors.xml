@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#A7FFEB</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Brown50_100">#BCAAA4</color>
+    <color name="Brown50_300">#A1887F</color>
+    <color name="Teal50_A100">#A7FFEB</color>
+    <color name="Teal50_700">#00796B</color>
+</resources>

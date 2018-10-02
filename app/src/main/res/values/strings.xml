@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PIRATEShips</string>
+    <string name="titel_of_ship">titel of ship</string>
+    <string name="ship_description">ship description</string>
+    <string name="price">price</string>
+    <string name="see_more">see more</string>
+    <string name="greeting_typ">greeting typ</string>
+</resources>
